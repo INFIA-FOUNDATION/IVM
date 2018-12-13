@@ -1,4 +1,4 @@
-#  Infia protocol
+#  Infia protocol - IVM
 
 Python Implementation
 
