@@ -1,6 +1,4 @@
 #  Infia protocol - IVM
 
-Python Implementation
-
-test
+test 1 / 2 
 
