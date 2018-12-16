@@ -3,7 +3,7 @@ package main
 import (
 	"archive/zip"
 	"fmt"
-	"github.com/zxh0/jvm.go/jvmgo/classfile"
+	"github.com/infia-foundation/ivm/classfile"
 	"io/ioutil"
 	"os"
 	"strings"
