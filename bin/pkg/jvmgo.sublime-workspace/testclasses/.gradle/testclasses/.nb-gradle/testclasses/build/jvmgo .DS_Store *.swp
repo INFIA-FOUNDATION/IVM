@@ -1,0 +1,10 @@
+bin/
+pkg/
+go.sub-workspace
+/testclasses/.gradle
+/testclasses/.nb-gradle/
+/testclasses/build/
+jvmgo
+
+.DS_Store
+*.swp
